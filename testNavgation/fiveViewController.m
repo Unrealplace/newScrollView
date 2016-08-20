@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor yellowColor];
-    NSLog(@"出来");
+    NSLog(@"第一次加载出来");
 
 }
 -(void)viewWillAppear:(BOOL)animated{
